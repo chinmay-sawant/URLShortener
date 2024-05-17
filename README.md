@@ -36,8 +36,7 @@ This project is a URL Shortener service built using React for the frontend and J
    redis-cli -a redispass (password for my user)
    ping -> pong
 5. Start the frontend and backend servers.
-   ```bash
-   
+
 6. Access the URL Shortener application in your browser.
    ```bash
    http://yourreacturl:port/login
@@ -50,3 +49,6 @@ This project is a URL Shortener service built using React for the frontend and J
 
 ### Contributors
 Chinmay Sawant
+
+### Screenshots
+![URL Shortener Logo](URLShorter_RedisBased/Home.png)
