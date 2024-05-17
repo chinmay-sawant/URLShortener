@@ -51,5 +51,6 @@ This project is a URL Shortener service built using React for the frontend and J
 Chinmay Sawant
 
 ### Screenshots
-![URL Shortener Logo](URLShorter_RedisBased/Home.png)
 ![URL Shortener Logo](URLShorter_RedisBased/Login.png)
+
+![URL Shortener Logo](URLShorter_RedisBased/Home.png)
